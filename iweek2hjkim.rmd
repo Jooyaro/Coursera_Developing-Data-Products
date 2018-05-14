@@ -1,7 +1,7 @@
 ---
 title: "week2hjkim"
-author: "Jooyaro"
-date: "2018³â 5¿ù 14ÀÏ"
+author: "Hyunjoo Kim"
+date: "2018-05-14"
 output: html_document
 ---
 ## My Map
